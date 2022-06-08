@@ -1,4 +1,4 @@
-# Tugas Week 2 - Javascript Introduction II
+# Tugas Week 2 - Javascript Introduction I
 
 ## Keterangan
 
@@ -11,4 +11,4 @@
 
 ## Tugas
 
-Tugas yang diberikan seputar built-in method javascript, dan callback function.
+Tugas yang diberikan seputar _For_, _Object_, _Spread Operator_, dan _Destructuring_.
